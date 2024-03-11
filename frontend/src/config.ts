@@ -1,1 +1,1 @@
-export const BACKEND_URL = "{BACKEND_URL}"
+export const BACKEND_URL = " https://week-13-offline.mitesh-12.workers.dev"
